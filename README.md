@@ -11,4 +11,4 @@
     * 512 MB RAM
     * 2   GB SSD
 
-* URL: _forum-ziqushru.c9users.io/home.php_
+* URL: _www.forum-ziqushru.c9users.io/home.php_
