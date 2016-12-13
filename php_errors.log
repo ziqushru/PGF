@@ -1,0 +1,113 @@
+[13-Dec-2016 01:31:16 UTC] PHP Warning:  include(upper.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/users/register.php on line 1
+[13-Dec-2016 01:31:16 UTC] PHP Stack trace:
+[13-Dec-2016 01:31:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/users/register.php:0
+[13-Dec-2016 01:31:16 UTC] PHP Warning:  include(): Failed opening 'upper.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/users/register.php on line 1
+[13-Dec-2016 01:31:16 UTC] PHP Stack trace:
+[13-Dec-2016 01:31:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/users/register.php:0
+[13-Dec-2016 01:31:16 UTC] PHP Warning:  include(lower.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/users/register.php on line 25
+[13-Dec-2016 01:31:16 UTC] PHP Stack trace:
+[13-Dec-2016 01:31:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/users/register.php:0
+[13-Dec-2016 01:31:16 UTC] PHP Warning:  include(): Failed opening 'lower.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/users/register.php on line 25
+[13-Dec-2016 01:31:16 UTC] PHP Stack trace:
+[13-Dec-2016 01:31:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/users/register.php:0
+[13-Dec-2016 01:31:39 UTC] PHP Warning:  include(upper.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/users/register.php on line 1
+[13-Dec-2016 01:31:39 UTC] PHP Stack trace:
+[13-Dec-2016 01:31:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/users/register.php:0
+[13-Dec-2016 01:31:39 UTC] PHP Warning:  include(): Failed opening 'upper.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/users/register.php on line 1
+[13-Dec-2016 01:31:39 UTC] PHP Stack trace:
+[13-Dec-2016 01:31:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/users/register.php:0
+[13-Dec-2016 01:31:39 UTC] PHP Warning:  include(lower.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/users/register.php on line 25
+[13-Dec-2016 01:31:39 UTC] PHP Stack trace:
+[13-Dec-2016 01:31:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/users/register.php:0
+[13-Dec-2016 01:31:39 UTC] PHP Warning:  include(): Failed opening 'lower.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/users/register.php on line 25
+[13-Dec-2016 01:31:39 UTC] PHP Stack trace:
+[13-Dec-2016 01:31:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/users/register.php:0
+[13-Dec-2016 01:32:57 UTC] PHP Warning:  include(upper.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/users/register.php on line 1
+[13-Dec-2016 01:32:57 UTC] PHP Stack trace:
+[13-Dec-2016 01:32:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/users/register.php:0
+[13-Dec-2016 01:32:57 UTC] PHP Warning:  include(): Failed opening 'upper.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/users/register.php on line 1
+[13-Dec-2016 01:32:57 UTC] PHP Stack trace:
+[13-Dec-2016 01:32:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/users/register.php:0
+[13-Dec-2016 01:32:57 UTC] PHP Warning:  include(lower.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/users/register.php on line 25
+[13-Dec-2016 01:32:57 UTC] PHP Stack trace:
+[13-Dec-2016 01:32:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/users/register.php:0
+[13-Dec-2016 01:32:57 UTC] PHP Warning:  include(): Failed opening 'lower.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/users/register.php on line 25
+[13-Dec-2016 01:32:57 UTC] PHP Stack trace:
+[13-Dec-2016 01:32:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/users/register.php:0
+[13-Dec-2016 01:34:20 UTC] PHP Warning:  include(/upper.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/users/register.php on line 1
+[13-Dec-2016 01:34:20 UTC] PHP Stack trace:
+[13-Dec-2016 01:34:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/users/register.php:0
+[13-Dec-2016 01:34:20 UTC] PHP Warning:  include(): Failed opening '/upper.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/users/register.php on line 1
+[13-Dec-2016 01:34:20 UTC] PHP Stack trace:
+[13-Dec-2016 01:34:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/users/register.php:0
+[13-Dec-2016 01:34:20 UTC] PHP Warning:  include(lower.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/users/register.php on line 25
+[13-Dec-2016 01:34:20 UTC] PHP Stack trace:
+[13-Dec-2016 01:34:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/users/register.php:0
+[13-Dec-2016 01:34:20 UTC] PHP Warning:  include(): Failed opening 'lower.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/users/register.php on line 25
+[13-Dec-2016 01:34:20 UTC] PHP Stack trace:
+[13-Dec-2016 01:34:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/users/register.php:0
+[13-Dec-2016 01:34:42 UTC] PHP Warning:  include(/root/upper.php): failed to open stream: Permission denied in /home/ubuntu/workspace/users/register.php on line 1
+[13-Dec-2016 01:34:42 UTC] PHP Stack trace:
+[13-Dec-2016 01:34:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/users/register.php:0
+[13-Dec-2016 01:34:42 UTC] PHP Warning:  include(): Failed opening '/root/upper.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/users/register.php on line 1
+[13-Dec-2016 01:34:42 UTC] PHP Stack trace:
+[13-Dec-2016 01:34:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/users/register.php:0
+[13-Dec-2016 01:34:42 UTC] PHP Warning:  include(lower.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/users/register.php on line 25
+[13-Dec-2016 01:34:42 UTC] PHP Stack trace:
+[13-Dec-2016 01:34:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/users/register.php:0
+[13-Dec-2016 01:34:42 UTC] PHP Warning:  include(): Failed opening 'lower.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/users/register.php on line 25
+[13-Dec-2016 01:34:42 UTC] PHP Stack trace:
+[13-Dec-2016 01:34:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/users/register.php:0
+[13-Dec-2016 01:34:51 UTC] PHP Warning:  include(~/upper.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/users/register.php on line 1
+[13-Dec-2016 01:34:51 UTC] PHP Stack trace:
+[13-Dec-2016 01:34:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/users/register.php:0
+[13-Dec-2016 01:34:51 UTC] PHP Warning:  include(): Failed opening '~/upper.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/users/register.php on line 1
+[13-Dec-2016 01:34:51 UTC] PHP Stack trace:
+[13-Dec-2016 01:34:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/users/register.php:0
+[13-Dec-2016 01:34:51 UTC] PHP Warning:  include(lower.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/users/register.php on line 25
+[13-Dec-2016 01:34:51 UTC] PHP Stack trace:
+[13-Dec-2016 01:34:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/users/register.php:0
+[13-Dec-2016 01:34:51 UTC] PHP Warning:  include(): Failed opening 'lower.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/users/register.php on line 25
+[13-Dec-2016 01:34:51 UTC] PHP Stack trace:
+[13-Dec-2016 01:34:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/users/register.php:0
+[13-Dec-2016 02:00:20 UTC] PHP Warning:  include(lower.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/users/register.php on line 25
+[13-Dec-2016 02:00:20 UTC] PHP Stack trace:
+[13-Dec-2016 02:00:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/users/register.php:0
+[13-Dec-2016 02:00:20 UTC] PHP Warning:  include(): Failed opening 'lower.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/users/register.php on line 25
+[13-Dec-2016 02:00:20 UTC] PHP Stack trace:
+[13-Dec-2016 02:00:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/users/register.php:0
+[13-Dec-2016 02:00:40 UTC] PHP Warning:  include(/home/ubuntu/workspacelower.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/users/register.php on line 25
+[13-Dec-2016 02:00:40 UTC] PHP Stack trace:
+[13-Dec-2016 02:00:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/users/register.php:0
+[13-Dec-2016 02:00:40 UTC] PHP Warning:  include(): Failed opening '/home/ubuntu/workspacelower.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/users/register.php on line 25
+[13-Dec-2016 02:00:40 UTC] PHP Stack trace:
+[13-Dec-2016 02:00:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/users/register.php:0
+[13-Dec-2016 02:02:59 UTC] PHP Warning:  include(/upper.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/users/signup.php on line 1
+[13-Dec-2016 02:02:59 UTC] PHP Stack trace:
+[13-Dec-2016 02:02:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/users/signup.php:0
+[13-Dec-2016 02:02:59 UTC] PHP Warning:  include(): Failed opening '/upper.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/users/signup.php on line 1
+[13-Dec-2016 02:02:59 UTC] PHP Stack trace:
+[13-Dec-2016 02:02:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/users/signup.php:0
+[13-Dec-2016 02:02:59 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/users/signup.php on line 4
+[13-Dec-2016 02:02:59 UTC] PHP Stack trace:
+[13-Dec-2016 02:02:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/users/signup.php:0
+[13-Dec-2016 02:02:59 UTC] PHP   2. mysqli->mysqli() /home/ubuntu/workspace/users/signup.php:4
+[13-Dec-2016 03:25:52 UTC] PHP Warning:  include(upper.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/users/logout.php on line 1
+[13-Dec-2016 03:25:52 UTC] PHP Stack trace:
+[13-Dec-2016 03:25:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/users/logout.php:0
+[13-Dec-2016 03:25:52 UTC] PHP Warning:  include(): Failed opening 'upper.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/users/logout.php on line 1
+[13-Dec-2016 03:25:52 UTC] PHP Stack trace:
+[13-Dec-2016 03:25:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/users/logout.php:0
+[13-Dec-2016 03:25:52 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ubuntu/workspace/users/logout.php on line 3
+[13-Dec-2016 03:25:52 UTC] PHP Stack trace:
+[13-Dec-2016 03:25:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/users/logout.php:0
+[13-Dec-2016 03:25:52 UTC] PHP   2. session_destroy() /home/ubuntu/workspace/users/logout.php:3
+[13-Dec-2016 03:25:52 UTC] PHP Warning:  include(lower.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/users/logout.php on line 5
+[13-Dec-2016 03:25:52 UTC] PHP Stack trace:
+[13-Dec-2016 03:25:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/users/logout.php:0
+[13-Dec-2016 03:25:52 UTC] PHP Warning:  include(): Failed opening 'lower.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/users/logout.php on line 5
+[13-Dec-2016 03:25:52 UTC] PHP Stack trace:
+[13-Dec-2016 03:25:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/users/logout.php:0
+[13-Dec-2016 03:49:49 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/ubuntu/workspace/users/signin.php on line 18
+[13-Dec-2016 03:49:49 UTC] PHP Stack trace:
+[13-Dec-2016 03:49:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/users/signin.php:0
