@@ -2,7 +2,7 @@
 
 <div class="div_custom">
     <h1>Log In</h1>
-    <form action="/signin.php" method="post">
+    <form action="/users/signin.php" method="post">
     <div class="table-responsive">
         <table class="table">
             <tr>

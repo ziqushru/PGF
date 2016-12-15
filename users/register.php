@@ -2,7 +2,7 @@
 
 <div class="div_custom">
     <h1>Account Information</h1>
-    <form action="/signup.php" method="post">
+    <form action="/users/signup.php" method="post">
     <div class="table-responsive">
         <table class="table">
             <tr>

@@ -1,4 +1,4 @@
-<?php include 'upper.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'] . '/upper.php'; ?>
 
 <?php
     $conn = new mysqli($ip_db, $username_db, $password_db, $name_db);
@@ -35,4 +35,4 @@
     </div>
 </div>
 
-<?php include 'lower.php'; ?>
+<?php include $_SERVER['DOCUMENT_ROOT'] . '/lower.php'; ?>
