@@ -32,7 +32,7 @@
                     </button>
                     <div class="dropdown_content">
                         <a href="/home.php">Home</a>
-                        <a href="/topics.php">Topics</a>
+                        <a href="/topics/showAll.php">Topics</a>
                         <?php if (!is_null($_SESSION["user_id"])) echo "<a href='/account.php'>Account</a>"; ?>
                         <a href="/about.php">About</a>
                     </div>
@@ -47,7 +47,7 @@
                     </li>
                     <li>
                         <button class="button_custom">
-                            <a href="/topics.php">Topics</a>
+                            <a href="/topics/showAll.php">Topics</a>
                         </button>
                     </li>
                     <?php

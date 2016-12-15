@@ -10,7 +10,7 @@
 ?>
 
 <div class="div_custom">
-    <h1>Account Information</h1>
+    <h1>Topics</h1>
     <div class="table-responsive">
         <table class="table">
             <tr>
@@ -21,7 +21,7 @@
             <?php
                 if ($_SESSION["user_id"] == 2)
                 {
-                    echo "<form action='/new_topic.php' method='post'>";
+                    echo "<form action='/topics/new.php' method='post'>";
                         echo "<tr>";
                             echo "<td align='middle' style='vertical-align:middle;'><input style='border: none;' type='text' name='name'/></td>";
                             echo "<td align='middle' style='vertical-align:middle;'><input style='border: none;' type='text' name='description'/></td>";
@@ -32,14 +32,15 @@
                 while ($topic = $data->fetch_assoc())
                 {
                     echo "<tr>";
-                        echo "<form action='/topic.php' method='get'>";
+                        echo "<form action='/topics/show.php' method='post'>";
+                        echo "<input type='hidden' name='id' value='" . $topic['id'] . "'/>";
                         echo "<input type='hidden' name='name' value='" . $topic['name'] . "'/>";
                         echo "<td align='middle' style='vertical-align:middle;'><input class='button_custom_2' type='submit' value='" . $topic['name'] . "'/></td>";
                         echo "<td align='middle' style='vertical-align:middle;'><input class='button_custom_2' type='submit' value='" . $topic['description'] . "'/></td>";
                         echo "</form>";
                         if ($_SESSION["user_id"] == 2)
                         {
-                            echo "<form action='/delete_topic.php' method='post'>";
+                            echo "<form action='/topics/delete.php' method='post'>";
                                 echo "<input type='hidden' name='id' value=" . $topic["id"] . "/>";
                                 echo "<td align='middle' style='vertical-align:middle;'><input class='button_custom' type='submit' value='Delete'/></td>";
                             echo "</form>";

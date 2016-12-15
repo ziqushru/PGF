@@ -111,3 +111,27 @@
 [13-Dec-2016 03:49:49 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/ubuntu/workspace/users/signin.php on line 18
 [13-Dec-2016 03:49:49 UTC] PHP Stack trace:
 [13-Dec-2016 03:49:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/users/signin.php:0
+[15-Dec-2016 07:23:36 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/topics/show.php on line 27
+[15-Dec-2016 07:23:36 UTC] PHP Stack trace:
+[15-Dec-2016 07:23:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/topics/show.php:0
+[15-Dec-2016 07:26:01 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/topics/show.php on line 27
+[15-Dec-2016 07:26:01 UTC] PHP Stack trace:
+[15-Dec-2016 07:26:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/topics/show.php:0
+[15-Dec-2016 07:27:29 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/topics/show.php on line 27
+[15-Dec-2016 07:27:29 UTC] PHP Stack trace:
+[15-Dec-2016 07:27:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/topics/show.php:0
+[15-Dec-2016 07:44:57 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/topics/show.php on line 27
+[15-Dec-2016 07:44:57 UTC] PHP Stack trace:
+[15-Dec-2016 07:44:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/topics/show.php:0
+[15-Dec-2016 07:46:59 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/topics/show.php on line 27
+[15-Dec-2016 07:46:59 UTC] PHP Stack trace:
+[15-Dec-2016 07:46:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/topics/show.php:0
+[15-Dec-2016 08:06:22 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/topics/show.php on line 27
+[15-Dec-2016 08:06:22 UTC] PHP Stack trace:
+[15-Dec-2016 08:06:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/topics/show.php:0
+[15-Dec-2016 08:07:46 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/topics/show.php on line 27
+[15-Dec-2016 08:07:46 UTC] PHP Stack trace:
+[15-Dec-2016 08:07:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/topics/show.php:0
+[15-Dec-2016 08:10:18 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/topics/show.php on line 27
+[15-Dec-2016 08:10:18 UTC] PHP Stack trace:
+[15-Dec-2016 08:10:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/topics/show.php:0
