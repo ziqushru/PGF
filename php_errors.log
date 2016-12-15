@@ -135,3 +135,181 @@
 [15-Dec-2016 08:10:18 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/topics/show.php on line 27
 [15-Dec-2016 08:10:18 UTC] PHP Stack trace:
 [15-Dec-2016 08:10:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/topics/show.php:0
+[15-Dec-2016 08:16:07 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/topics/show.php on line 27
+[15-Dec-2016 08:16:07 UTC] PHP Stack trace:
+[15-Dec-2016 08:16:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/topics/show.php:0
+[15-Dec-2016 08:16:44 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/topics/show.php on line 27
+[15-Dec-2016 08:16:44 UTC] PHP Stack trace:
+[15-Dec-2016 08:16:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/topics/show.php:0
+[15-Dec-2016 08:17:13 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/topics/show.php on line 27
+[15-Dec-2016 08:17:13 UTC] PHP Stack trace:
+[15-Dec-2016 08:17:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/topics/show.php:0
+[15-Dec-2016 08:17:21 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/topics/show.php on line 27
+[15-Dec-2016 08:17:21 UTC] PHP Stack trace:
+[15-Dec-2016 08:17:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/topics/show.php:0
+[15-Dec-2016 08:19:41 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/topics/show.php on line 27
+[15-Dec-2016 08:19:41 UTC] PHP Stack trace:
+[15-Dec-2016 08:19:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/topics/show.php:0
+[15-Dec-2016 08:19:47 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/topics/show.php on line 27
+[15-Dec-2016 08:19:47 UTC] PHP Stack trace:
+[15-Dec-2016 08:19:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/topics/show.php:0
+[15-Dec-2016 08:19:52 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/topics/show.php on line 27
+[15-Dec-2016 08:19:52 UTC] PHP Stack trace:
+[15-Dec-2016 08:19:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/topics/show.php:0
+[15-Dec-2016 08:20:16 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/topics/show.php on line 27
+[15-Dec-2016 08:20:16 UTC] PHP Stack trace:
+[15-Dec-2016 08:20:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/topics/show.php:0
+[15-Dec-2016 08:21:27 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/topics/show.php on line 27
+[15-Dec-2016 08:21:27 UTC] PHP Stack trace:
+[15-Dec-2016 08:21:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/topics/show.php:0
+[15-Dec-2016 08:45:15 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/ubuntu/workspace/posts/show.php on line 24
+[15-Dec-2016 08:46:46 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/ubuntu/workspace/posts/show.php on line 24
+[15-Dec-2016 08:46:55 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/ubuntu/workspace/posts/show.php on line 24
+[15-Dec-2016 08:54:09 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/topics/show.php on line 27
+[15-Dec-2016 08:54:09 UTC] PHP Stack trace:
+[15-Dec-2016 08:54:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/topics/show.php:0
+[15-Dec-2016 09:00:18 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/topics/show.php on line 27
+[15-Dec-2016 09:00:18 UTC] PHP Stack trace:
+[15-Dec-2016 09:00:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/topics/show.php:0
+[15-Dec-2016 10:05:09 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/topics/show.php on line 30
+[15-Dec-2016 10:05:09 UTC] PHP Stack trace:
+[15-Dec-2016 10:05:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/topics/show.php:0
+[15-Dec-2016 10:15:08 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/topics/show.php on line 30
+[15-Dec-2016 10:15:08 UTC] PHP Stack trace:
+[15-Dec-2016 10:15:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/topics/show.php:0
+[15-Dec-2016 10:16:23 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/topics/show.php on line 30
+[15-Dec-2016 10:16:23 UTC] PHP Stack trace:
+[15-Dec-2016 10:16:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/topics/show.php:0
+[15-Dec-2016 10:26:32 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/topics/show.php on line 30
+[15-Dec-2016 10:26:32 UTC] PHP Stack trace:
+[15-Dec-2016 10:26:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/topics/show.php:0
+[15-Dec-2016 11:03:57 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/posts/delete.php on line 14
+[15-Dec-2016 11:03:57 UTC] PHP Stack trace:
+[15-Dec-2016 11:03:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/posts/delete.php:0
+[15-Dec-2016 11:06:15 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/posts/delete.php on line 14
+[15-Dec-2016 11:06:15 UTC] PHP Stack trace:
+[15-Dec-2016 11:06:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/posts/delete.php:0
+[15-Dec-2016 11:06:22 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/posts/delete.php on line 14
+[15-Dec-2016 11:06:22 UTC] PHP Stack trace:
+[15-Dec-2016 11:06:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/posts/delete.php:0
+[15-Dec-2016 11:09:47 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/topics/show.php on line 30
+[15-Dec-2016 11:09:47 UTC] PHP Stack trace:
+[15-Dec-2016 11:09:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/topics/show.php:0
+[15-Dec-2016 11:10:43 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/topics/show.php on line 30
+[15-Dec-2016 11:10:43 UTC] PHP Stack trace:
+[15-Dec-2016 11:10:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/topics/show.php:0
+[15-Dec-2016 12:38:59 UTC] PHP Fatal error:  Call to a member function fetch_row() on a non-object in /home/ubuntu/workspace/posts/delete.php on line 17
+[15-Dec-2016 12:38:59 UTC] PHP Stack trace:
+[15-Dec-2016 12:38:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/posts/delete.php:0
+[15-Dec-2016 12:39:40 UTC] PHP Fatal error:  Call to a member function fetch_row() on a non-object in /home/ubuntu/workspace/posts/delete.php on line 17
+[15-Dec-2016 12:39:40 UTC] PHP Stack trace:
+[15-Dec-2016 12:39:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/posts/delete.php:0
+[15-Dec-2016 12:41:13 UTC] PHP Fatal error:  Call to a member function fetch_row() on a non-object in /home/ubuntu/workspace/posts/delete.php on line 17
+[15-Dec-2016 12:41:13 UTC] PHP Stack trace:
+[15-Dec-2016 12:41:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/posts/delete.php:0
+[15-Dec-2016 12:41:32 UTC] PHP Fatal error:  Call to a member function fetch_row() on a non-object in /home/ubuntu/workspace/posts/delete.php on line 17
+[15-Dec-2016 12:41:32 UTC] PHP Stack trace:
+[15-Dec-2016 12:41:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/posts/delete.php:0
+[15-Dec-2016 12:43:28 UTC] PHP Fatal error:  Call to a member function fetch_row() on a non-object in /home/ubuntu/workspace/posts/delete.php on line 17
+[15-Dec-2016 12:43:28 UTC] PHP Stack trace:
+[15-Dec-2016 12:43:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/posts/delete.php:0
+[15-Dec-2016 12:43:48 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/posts/delete.php on line 17
+[15-Dec-2016 12:43:48 UTC] PHP Stack trace:
+[15-Dec-2016 12:43:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/posts/delete.php:0
+[15-Dec-2016 12:45:16 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/topics/show.php on line 30
+[15-Dec-2016 12:45:16 UTC] PHP Stack trace:
+[15-Dec-2016 12:45:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/topics/show.php:0
+[15-Dec-2016 12:45:47 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/topics/show.php on line 30
+[15-Dec-2016 12:45:47 UTC] PHP Stack trace:
+[15-Dec-2016 12:45:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/topics/show.php:0
+[15-Dec-2016 12:48:37 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/topics/show.php on line 30
+[15-Dec-2016 12:48:37 UTC] PHP Stack trace:
+[15-Dec-2016 12:48:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/topics/show.php:0
+[15-Dec-2016 12:49:30 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/topics/show.php on line 30
+[15-Dec-2016 12:49:30 UTC] PHP Stack trace:
+[15-Dec-2016 12:49:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/topics/show.php:0
+[15-Dec-2016 13:03:14 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/posts/delete.php on line 14
+[15-Dec-2016 13:03:14 UTC] PHP Stack trace:
+[15-Dec-2016 13:03:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/posts/delete.php:0
+[15-Dec-2016 13:03:35 UTC] PHP Fatal error:  Call to a member function fetch_row() on a non-object in /home/ubuntu/workspace/posts/delete.php on line 14
+[15-Dec-2016 13:03:35 UTC] PHP Stack trace:
+[15-Dec-2016 13:03:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/posts/delete.php:0
+[15-Dec-2016 13:08:01 UTC] PHP Fatal error:  Call to a member function next_result() on a non-object in /home/ubuntu/workspace/posts/delete.php on line 25
+[15-Dec-2016 13:08:01 UTC] PHP Stack trace:
+[15-Dec-2016 13:08:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/posts/delete.php:0
+[15-Dec-2016 13:08:19 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/topics/show.php on line 30
+[15-Dec-2016 13:08:19 UTC] PHP Stack trace:
+[15-Dec-2016 13:08:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/topics/show.php:0
+[15-Dec-2016 13:09:17 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/topics/show.php on line 30
+[15-Dec-2016 13:09:17 UTC] PHP Stack trace:
+[15-Dec-2016 13:09:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/topics/show.php:0
+[15-Dec-2016 13:10:41 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/topics/show.php on line 30
+[15-Dec-2016 13:10:41 UTC] PHP Stack trace:
+[15-Dec-2016 13:10:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/topics/show.php:0
+[15-Dec-2016 13:11:05 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/topics/show.php on line 30
+[15-Dec-2016 13:11:05 UTC] PHP Stack trace:
+[15-Dec-2016 13:11:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/topics/show.php:0
+[15-Dec-2016 13:17:27 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/posts/delete.php on line 16
+[15-Dec-2016 13:17:27 UTC] PHP Stack trace:
+[15-Dec-2016 13:17:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/posts/delete.php:0
+[15-Dec-2016 13:17:40 UTC] PHP Fatal error:  Call to a member function fetch_row() on a non-object in /home/ubuntu/workspace/posts/delete.php on line 16
+[15-Dec-2016 13:17:40 UTC] PHP Stack trace:
+[15-Dec-2016 13:17:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/posts/delete.php:0
+[15-Dec-2016 13:19:57 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/ubuntu/workspace/posts/delete.php on line 16
+[15-Dec-2016 13:19:57 UTC] PHP Stack trace:
+[15-Dec-2016 13:19:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/posts/delete.php:0
+[15-Dec-2016 13:20:04 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/ubuntu/workspace/posts/delete.php on line 16
+[15-Dec-2016 13:20:04 UTC] PHP Stack trace:
+[15-Dec-2016 13:20:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/posts/delete.php:0
+[15-Dec-2016 13:20:25 UTC] PHP Fatal error:  Call to undefined method mysqli::fetch() in /home/ubuntu/workspace/posts/delete.php on line 16
+[15-Dec-2016 13:20:25 UTC] PHP Stack trace:
+[15-Dec-2016 13:20:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/posts/delete.php:0
+[15-Dec-2016 13:22:05 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/ubuntu/workspace/posts/delete.php on line 16
+[15-Dec-2016 13:22:05 UTC] PHP Stack trace:
+[15-Dec-2016 13:22:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/posts/delete.php:0
+[15-Dec-2016 13:22:05 UTC] PHP   2. mysql_fetch_object() /home/ubuntu/workspace/posts/delete.php:16
+[15-Dec-2016 13:22:06 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/topics/show.php on line 30
+[15-Dec-2016 13:22:06 UTC] PHP Stack trace:
+[15-Dec-2016 13:22:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/topics/show.php:0
+[15-Dec-2016 13:22:16 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/ubuntu/workspace/posts/delete.php on line 16
+[15-Dec-2016 13:22:16 UTC] PHP Stack trace:
+[15-Dec-2016 13:22:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/posts/delete.php:0
+[15-Dec-2016 13:22:16 UTC] PHP   2. mysql_fetch_object() /home/ubuntu/workspace/posts/delete.php:16
+[15-Dec-2016 13:22:17 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/topics/show.php on line 30
+[15-Dec-2016 13:22:17 UTC] PHP Stack trace:
+[15-Dec-2016 13:22:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/topics/show.php:0
+[15-Dec-2016 13:22:26 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/ubuntu/workspace/posts/delete.php on line 16
+[15-Dec-2016 13:22:26 UTC] PHP Stack trace:
+[15-Dec-2016 13:22:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/posts/delete.php:0
+[15-Dec-2016 13:22:26 UTC] PHP   2. mysql_fetch_object() /home/ubuntu/workspace/posts/delete.php:16
+[15-Dec-2016 13:22:26 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/topics/show.php on line 30
+[15-Dec-2016 13:22:26 UTC] PHP Stack trace:
+[15-Dec-2016 13:22:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/topics/show.php:0
+[15-Dec-2016 13:22:30 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/topics/show.php on line 30
+[15-Dec-2016 13:22:30 UTC] PHP Stack trace:
+[15-Dec-2016 13:22:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/topics/show.php:0
+[15-Dec-2016 13:24:01 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/ubuntu/workspace/posts/delete.php on line 16
+[15-Dec-2016 13:24:01 UTC] PHP Stack trace:
+[15-Dec-2016 13:24:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/posts/delete.php:0
+[15-Dec-2016 13:24:01 UTC] PHP   2. mysql_fetch_assoc() /home/ubuntu/workspace/posts/delete.php:16
+[15-Dec-2016 13:24:02 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/topics/show.php on line 30
+[15-Dec-2016 13:24:02 UTC] PHP Stack trace:
+[15-Dec-2016 13:24:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/topics/show.php:0
+[15-Dec-2016 13:30:03 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/topics/show.php on line 30
+[15-Dec-2016 13:30:03 UTC] PHP Stack trace:
+[15-Dec-2016 13:30:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/topics/show.php:0
+[15-Dec-2016 13:31:47 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/topics/show.php on line 30
+[15-Dec-2016 13:31:47 UTC] PHP Stack trace:
+[15-Dec-2016 13:31:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/topics/show.php:0
+[15-Dec-2016 13:32:02 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/topics/show.php on line 30
+[15-Dec-2016 13:32:02 UTC] PHP Stack trace:
+[15-Dec-2016 13:32:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/topics/show.php:0
+[15-Dec-2016 13:32:40 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/topics/show.php on line 30
+[15-Dec-2016 13:32:40 UTC] PHP Stack trace:
+[15-Dec-2016 13:32:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/topics/show.php:0
+[15-Dec-2016 13:35:22 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/topics/show.php on line 30
+[15-Dec-2016 13:35:22 UTC] PHP Stack trace:
+[15-Dec-2016 13:35:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/topics/show.php:0
+[15-Dec-2016 13:36:30 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ubuntu/workspace/topics/show.php on line 30
+[15-Dec-2016 13:36:30 UTC] PHP Stack trace:
+[15-Dec-2016 13:36:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/topics/show.php:0

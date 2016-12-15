@@ -34,14 +34,13 @@
                     echo "<tr>";
                         echo "<form action='/topics/show.php' method='post'>";
                         echo "<input type='hidden' name='id' value='" . $topic['id'] . "'/>";
-                        echo "<input type='hidden' name='name' value='" . $topic['name'] . "'/>";
                         echo "<td align='middle' style='vertical-align:middle;'><input class='button_custom_2' type='submit' value='" . $topic['name'] . "'/></td>";
                         echo "<td align='middle' style='vertical-align:middle;'><input class='button_custom_2' type='submit' value='" . $topic['description'] . "'/></td>";
                         echo "</form>";
                         if ($_SESSION["user_id"] == 2)
                         {
                             echo "<form action='/topics/delete.php' method='post'>";
-                                echo "<input type='hidden' name='id' value=" . $topic["id"] . "/>";
+                                echo "<input type='hidden' name='id' value='" . $topic["id"] . "'/>";
                                 echo "<td align='middle' style='vertical-align:middle;'><input class='button_custom' type='submit' value='Delete'/></td>";
                             echo "</form>";
                         }

@@ -3,7 +3,7 @@
 <?php
     if (!isset($_POST["topic_id"]) || $_POST["topic_id"] == "")
     {
-        header("Location: /topics/show.php");
+        header("Location: /home.php");
         die();
     }
 ?>
@@ -11,7 +11,7 @@
 <div class="div_custom">
     <h1>New Post</h1>
     <div class="table-responsive">
-        <form action='/posts/new_check.php' method='post'>
+        <form action='/posts/new_check.php' method='post' id='posts/new_check'>
             <table class="table">
                 <tr>
                     <td align="middle">Title</td>
@@ -21,7 +21,7 @@
                     echo "<tr>";
                         echo "<input type='hidden' name='topic_id' value='" . $_POST['topic_id'] . "'/>";
                         echo "<td align='middle' style='vertical-align:middle;'><input style='border: none;' type='text' name='title'/></td>";
-                        echo "<td align='middle' style='vertical-align:middle;'><input style='border: none;' type='text' name='text'/></td>";
+                        echo "<td align='middle' style='vertical-align:middle;'><textarea form='posts/new_check' style='border: none;' name='text' cols='35' wrap='soft'></textarea></td>";
                     echo "</tr>";
                 ?>
             </table>

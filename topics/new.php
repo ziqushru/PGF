@@ -4,7 +4,7 @@
     if (!isset($_POST["name"]) || $_POST["name"] == "" ||
         !isset($_POST["description"]) || $_POST["description"] == "")
     {
-        header("Location: /topics.php");
+        header("Location: /topics/showAll.php");
         die();
     }
     
@@ -14,7 +14,7 @@
     $conn->query($sql);
     $conn->close();
 
-    header("Location: /topics.php");
+    header("Location: /topics/showAll.php");
     die();
 ?>
 
