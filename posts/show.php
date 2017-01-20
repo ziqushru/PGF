@@ -15,6 +15,12 @@
     
     $sql = "SELECT * FROM comments WHERE (post_id='" . $_POST["id"] . "')";
     $data = $conn->query($sql);
+    
+    if (!is_null($_SESSION["user_id"]) )
+    {
+        $sql = "UPDATE posts SET views=views + 1 WHERE (id=" . $_POST["id"] . ")";
+        $conn->query($sql);
+    }
 ?>
 
 <div class="div_custom">

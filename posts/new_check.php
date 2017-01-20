@@ -13,6 +13,8 @@
     if ($conn->connect_error) { die("Connection failed: " . $conn->connect_error); }
     $sql = "INSERT INTO posts (topic_id, user_id, title, text) VALUES (" . $_POST["topic_id"] . "," . $_SESSION["user_id"] . ",'" . $_POST["title"] . "','" . $_POST["text"] . "')";
     $conn->query($sql);
+    $sql = "UPDATE users SET posts=posts+1 WHERE id=" . $_SESSION["user_id"];
+    $conn->query($sql);
     $conn->close();
 ?>
     

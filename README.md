@@ -1,7 +1,7 @@
 #Programming Forum
 ###Simple website developed as an assignment for the lesson Specific Distributed Systems at my Technological Institution
 
-* Version: _0.4.0_
+* Version: _1.0.0_
 
 * PHP: _5.5.9-1ubuntu4.20_
 

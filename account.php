@@ -32,6 +32,9 @@
                 <td><?php echo $user["posts"]; ?></td>
             </tr>
         </table>
+        <form action="/users/delete.php" method="post">
+            <input class="button_custom" type="submit" value="Delete"/>
+        </form>
     </div>
 </div>
 

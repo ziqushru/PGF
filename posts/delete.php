@@ -16,6 +16,8 @@
     $post = $data->fetch_assoc();
     $sql = "DELETE FROM posts WHERE (id=" . $_POST["id"] . ");";
     $conn->query($sql);
+    $sql = "UPDATE users SET posts=posts-1 WHERE id=" . $_SESSION["user_id"];
+    $conn->query($sql);
     $conn->close();
 ?>
 
