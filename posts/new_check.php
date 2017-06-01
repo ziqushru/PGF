@@ -5,7 +5,7 @@
         !isset($_POST["title"]) || $_POST["title"] == "" ||
         !isset($_POST["text"]) || $_POST["text"] == "")
     {
-        header("Location: /home.php");
+        header("Location: /topics/showAll.php");
         die();
     }
     

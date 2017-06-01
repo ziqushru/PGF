@@ -19,7 +19,7 @@
                 <td align="middle"></td>
             </tr>
             <?php
-                if ($_SESSION["user_id"] == 2)
+                if ($_SESSION["user_id"] == 1)
                 {
                     echo "<form action='/topics/new.php' method='post'>";
                         echo "<tr>";
@@ -37,7 +37,7 @@
                         echo "<td align='middle' style='vertical-align:middle;'><input class='button_custom_2' type='submit' value='" . $topic['name'] . "'/></td>";
                         echo "<td align='middle' style='vertical-align:middle;'><input class='button_custom_2' type='submit' value='" . $topic['description'] . "'/></td>";
                         echo "</form>";
-                        if ($_SESSION["user_id"] == 2)
+                        if ($_SESSION["username"] == "admin")
                         {
                             echo "<form action='/topics/delete.php' method='post'>";
                                 echo "<input type='hidden' name='id' value='" . $topic["id"] . "'/>";

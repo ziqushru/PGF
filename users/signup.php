@@ -1,9 +1,9 @@
 <?php include $_SERVER['DOCUMENT_ROOT'] . '/upper.php'; ?>
 
 <?php
-    if (isset($_POST["username"]) || isset($_POST["password"]))
+    if (empty($_POST["username"]) || empty($_POST["password"]))
     {
-        header("Location: /users/signup.php");
+        header("Location: /users/register.php");
         die();
     }
     
@@ -14,6 +14,8 @@
 
     if ($conn->query($sql) === FALSE)
         header("Location: /users/signup.php");
+    else if ($_SESSION["username"] == "admin")
+        header("Location: /account.php");
     else
         header("Location: /users/login.php");
     $conn->close();

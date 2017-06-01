@@ -38,7 +38,7 @@
                         echo "<td align='middle' style='vertical-align:middle;'><input class='button_custom_2' type='submit' value='" . $post['views'] . "'/></td>";
                         echo "<td align='middle' style='vertical-align:middle;'><input class='button_custom_2' type='submit' value='" . $post['title'] . "'/></td>";
                         echo "</form>";
-                        if ($_SESSION["user_id"] == 2)
+                        if ($_SESSION["username"] == "admin")
                         {
                             echo "<form action='/posts/delete.php' method='post'>";
                                 echo "<input type='hidden' name='id' value='" . $post['id'] . "'/>";

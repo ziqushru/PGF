@@ -8,7 +8,6 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <title>PGF</title>
     <link rel="stylesheet" type="text/css" href="/assets/css/global.css">
-    
     <?php
         $ip_db = getenv('IP');
         $username_db = getenv('C9_USER');
@@ -28,7 +27,7 @@
                 </button>
                 <div class="dropdown">
                     <button class="button_custom_animated dropdown-toggle" type="button" data-toggle="dropdown">
-                        <span>Programming Forum</span>
+                        <span>Mouthwatering Recipes</span>
                     </button>
                     <div class="dropdown_content">
                         <a href="/home.php">Home</a>
