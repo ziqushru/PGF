@@ -1,4 +1,3 @@
-#Programming Forum
 Simple website developed as an assignment for the lesson Specific Distributed Systems at my Technological Institution
 
 * Version: _1.0.0_
